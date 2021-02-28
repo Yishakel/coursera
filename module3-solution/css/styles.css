@@ -40,10 +40,15 @@ body {/*define la base de la pagina web, su color de fondo en este caso*/
 p.meh{
 	color: #000000;
 	text-align: center;
-	font-size: 4em;
+	font-size: 1.5em;
 }
 
 .jumbotron p{
 	color: #000000;
+}
+
+h1 {
+	color: #000000;
+	text-align: center;
 }
 
