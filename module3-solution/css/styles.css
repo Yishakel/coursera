@@ -9,6 +9,7 @@ body {/*define la base de la pagina web, su color de fondo en este caso*/
 	background-color: #ADEAEA;
 	border-radius: 0;/*quita las esquitas redondeadas y las pone rectas*/
 	border: 0;/*estira los bordes hasta completar toda la pagina*/
+	height: 65px;
 }
 .navbar-brand h1 { /*Food, LLC*/
   color: #2F2F4F;
